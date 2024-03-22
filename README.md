@@ -2,6 +2,7 @@
 This is a service app using TCP protocol.
 
 The main function of this application is to run in the background and connect to the my library [here] (https://github.com/Personal-Project-VDH/rn-start-app-tcp.git)
+
 **Compatible with Android 7.1.2 and above**
 
 ```bash
